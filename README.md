@@ -104,7 +104,8 @@ After running `generate.py`, the `dataset/` directory will contain:
 
 An example of this image is given below:
 
-![Sample driving scene](test.png) 
+![Sample driving scene](test.png)
+
 Figure 1: An initial test image created
 
 ## Notes
