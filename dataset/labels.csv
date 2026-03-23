@@ -1,0 +1,37 @@
+filename,weather,scene,traffic
+img_0.png,sunny,urban street,low traffic
+img_1.png,sunny,urban street,moderate traffic
+img_2.png,sunny,urban street,heavy traffic
+img_3.png,sunny,highway,low traffic
+img_4.png,sunny,highway,moderate traffic
+img_5.png,sunny,highway,heavy traffic
+img_6.png,sunny,intersection,low traffic
+img_7.png,sunny,intersection,moderate traffic
+img_8.png,sunny,intersection,heavy traffic
+img_9.png,rainy,urban street,low traffic
+img_10.png,rainy,urban street,moderate traffic
+img_11.png,rainy,urban street,heavy traffic
+img_12.png,rainy,highway,low traffic
+img_13.png,rainy,highway,moderate traffic
+img_14.png,rainy,highway,heavy traffic
+img_15.png,rainy,intersection,low traffic
+img_16.png,rainy,intersection,moderate traffic
+img_17.png,rainy,intersection,heavy traffic
+img_18.png,foggy,urban street,low traffic
+img_19.png,foggy,urban street,moderate traffic
+img_20.png,foggy,urban street,heavy traffic
+img_21.png,foggy,highway,low traffic
+img_22.png,foggy,highway,moderate traffic
+img_23.png,foggy,highway,heavy traffic
+img_24.png,foggy,intersection,low traffic
+img_25.png,foggy,intersection,moderate traffic
+img_26.png,foggy,intersection,heavy traffic
+img_27.png,night,urban street,low traffic
+img_28.png,night,urban street,moderate traffic
+img_29.png,night,urban street,heavy traffic
+img_30.png,night,highway,low traffic
+img_31.png,night,highway,moderate traffic
+img_32.png,night,highway,heavy traffic
+img_33.png,night,intersection,low traffic
+img_34.png,night,intersection,moderate traffic
+img_35.png,night,intersection,heavy traffic
